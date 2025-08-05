@@ -1,0 +1,11 @@
+#
+**__pycache__
+
+# Simulation output
+**.out
+**results.xml
+**sim_build
+
+# Synthesis output
+**outputs
+**.stp
